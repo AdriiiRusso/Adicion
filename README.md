@@ -1,2 +1,2 @@
-# Adicion
+# Adición
 "Suma de A + B"
