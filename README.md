@@ -14,4 +14,4 @@ El usuario debe de ingresar 2 números reales, el programa debe de sumar ambos n
 ## Algoritmo ##
 Siendo A y B números reales.
 
-Leer A --> Leer B --> Escribir A + B
+Leer A --> Leer B --> Escribir Suma de A y B
