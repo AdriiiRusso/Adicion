@@ -1,6 +1,6 @@
 /*
-	"AdiciÛn"
-	"Adri·n Russo"
+	"Adici√≥n"
+	"Adri√°n Russo"
 	"20170403"
 */
 
@@ -13,7 +13,8 @@ int main ()
 	double A;
 	double B;
 	
-	cout << "Suma de A + B:" << endl;
+	cout << "Suma de A y B:" << endl;
+	
 	cout << "Ingrese A: ";
 	cin >> A;
 	cout << "Ingrese B: ";
