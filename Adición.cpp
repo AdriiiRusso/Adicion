@@ -10,16 +10,16 @@ using namespace std;
 
 int main () 
 {
-	double A;
-	double B;
+	double a;
+	double b;
 	
 	cout << "Suma de A y B:" << endl;
 	
 	cout << "Ingrese A: ";
-	cin >> A;
+	cin >> a;
 	cout << "Ingrese B: ";
-	cin >> B;
-	cout << "La suma de A y B es: " << A + B << endl;
+	cin >> b;
+	cout << "La suma de A y B es: " << a + b << endl;
 	
 	system ("PAUSE");
 }
